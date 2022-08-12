@@ -1,4 +1,6 @@
-# PROJE 1
+# İnsertion-Sort
+ 
+ [Patika Dev sitesine gitmek için tıklayınız](https://www.patika.dev/tr)
 
 ## 1.
 
